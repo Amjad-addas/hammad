@@ -34,7 +34,7 @@
 
     border: 1px #08ff solid;
     border-radius: 15px;
-    width: 25%;
+    width: 50vw
   }
 
   .btn{
@@ -44,6 +44,6 @@
     color: white;
     border: none;
     outline: none;
-    width: 15%;
+    width: 50vw;
     border-radius: 15px;
   }
