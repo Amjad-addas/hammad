@@ -46,4 +46,9 @@
     outline: none;
     width: 50vw;
     border-radius: 15px;
+    cursor: pointer;
+  }
+  .error{
+    padding: 15px;
+    width: 50vw;
   }
